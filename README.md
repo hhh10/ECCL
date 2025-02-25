@@ -1,4 +1,3 @@
 # ECCL
-[framework (1).pdf](https://github.com/user-attachments/files/18960743/framework.1.pdf)
+![image](https://github.com/user-attachments/assets/ef55e733-f0c5-41db-ac89-afe7a6368e59)
 
-[visualize_result.pdf](https://github.com/user-attachments/files/18960714/visualize_result.pdf)
