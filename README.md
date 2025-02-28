@@ -3,6 +3,12 @@
 
 run the training process:
 
+Training
 ```
 sh run.sh
+```
+
+Testing
+```python
+python test.py --config_file 'path/to/model_dir/configs.yaml'
 ```
