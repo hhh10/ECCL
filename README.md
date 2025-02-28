@@ -1,7 +1,7 @@
 # ECCL
 ![image](https://github.com/user-attachments/assets/ef55e733-f0c5-41db-ac89-afe7a6368e59)
 
-### Requirements
+## Installation
 we use single RTX3090 24G GPU for training and evaluation. 
 ```
 pytorch 
@@ -11,7 +11,7 @@ easydict
 loralib
 ```
 
-### Prepare Datasets
+## Prepare Datasets
 Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description), ICFG-PEDES dataset from [here](https://github.com/zifyloo/SSAN) and RSTPReid dataset form [here](https://github.com/NjtechCVLab/RSTPReid-Dataset)
 
 Organize them in `your dataset root dir` folder as follows:
@@ -35,12 +35,12 @@ Organize them in `your dataset root dir` folder as follows:
 |       |-- data_captions.json
 ```
 
-Training
+## Training
 ```
 sh run.sh
 ```
 
-Testing
+## Testing
 ```python
 python test.py --config_file 'path/to/model_dir/configs.yaml'
 ```
