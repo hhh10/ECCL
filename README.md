@@ -45,7 +45,7 @@ python test.py --config_file 'path/to/model_dir/configs.yaml'
 ```
 
 ## Main results
-#### CUHK-PEDES dataset
+### CUHK-PEDES dataset
 
 |     Method      |     Backbone     |  Rank-1   |  Rank-5   |  Rank-10  |    mAP    |
 | :-------------: | :--------------: | :-------: | :-------: | :-------: | :-------: | 
@@ -71,5 +71,4 @@ python test.py --config_file 'path/to/model_dir/configs.yaml'
 | IRRA | 63.46 | 80.24 | 85.82 | 38.05 | 7.92 |
 |    RaSa     |   65.28   |   80.40   |   85.12   |   41.29   | 
 |      MLLM4Text-ReID      |   67.05   |   82.16   |   **87.33**   |     41.51     | 
-
 | **ECCL (ours)** | **68.03** | **82.46** | 87.28 | **43.50** | 
