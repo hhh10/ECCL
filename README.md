@@ -3,14 +3,12 @@ The is the official repository with Pytorch version for [Efficient Cross-Modal S
 ![image](https://github.com/user-attachments/assets/ef55e733-f0c5-41db-ac89-afe7a6368e59)
 
 ## Installation
-we use single RTX3090 24G GPU for training and evaluation. 
-```
-pytorch 
-torchvision
-prettytable
-easydict
-loralib
-```
+- pytorch 
+- torchvision
+- prettytable
+- easydict
+- loralib
+
 
 ## Prepare Datasets
 Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description), ICFG-PEDES dataset from [here](https://github.com/zifyloo/SSAN) and RSTPReid dataset form [here](https://github.com/NjtechCVLab/RSTPReid-Dataset)
