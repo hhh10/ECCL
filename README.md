@@ -4,4 +4,4 @@
 run the training process:
 \'''
 sh run.sh
-'''\
+\'''
