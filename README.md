@@ -7,7 +7,7 @@ The is the official repository with Pytorch version for [Efficient Cross-Modal S
 - torchvision
 - prettytable
 - easydict
-- loralib
+- loralib (Replace the corresponding file in loralib with the layers.py from this repository.)
 
 
 ## Prepare Datasets
