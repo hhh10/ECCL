@@ -59,3 +59,4 @@ python test.py --config_file 'path/to/model_dir/configs.yaml'
 | IRRA | ViT-B-16/Xformer | 73.38 | 89.93 | 93.71 | 66.13 |
 |     RaSa    | ViT-B-16/Bert-Base |   76.51   |   90.29   |   94.25   |   69.38   |
 |     MLLM4Text-ReID    | ViT-B-16/Xformer |   76.82   |   **91.16**   |   **94.46**   |   69.55   |
+| **ECCL (ours)** | ViT-B-16/Xformer |**77.17** | 90.64 | 94.39 | **69.81** | 
