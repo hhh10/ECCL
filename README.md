@@ -85,3 +85,6 @@ python test.py --config_file 'path/to/model_dir/configs.yaml'
 |    RaSa     |   66.90   |   86.50   |   91.35   |   52.31   |
 |      MLLM4Text-ReID      |   68.50   |   **87.15**   |   **92.10**   | 
 | **ECCL (ours)** | **69.60** | 85.95 | 91.05 | **55.08** |
+
+## Acknowledgement
+Our code is conducted based on [IRRA](https://github.com/anosorae/IRRA).
